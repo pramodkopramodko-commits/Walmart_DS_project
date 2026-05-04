@@ -76,4 +76,4 @@ This project analyses 143,000+ weekly sales records across 45 Walmart stores (20
 # Author
 
 **Pramod K O**  
-[LinkedIn Profile URL:linkedin.com/in/pramod-k-o-775b31306 ] · [GitHub Profile URL]
+[LinkedIn Profile URL:linkedin.com/in/pramod-k-o-775b31306 ] · [GitHub Profile URL:pramodkopramodko-commits]
